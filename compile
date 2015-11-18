@@ -1,0 +1,1 @@
+g++ cell.cc grid.cc block.cc window.cc driver.cc scoreboard.cc -L/usr/X11R6/lib -lX11 
